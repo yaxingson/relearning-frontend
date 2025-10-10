@@ -45,7 +45,4 @@
 ## Downloadable Links
 
 - <https://www.w3.org/TR/xhtml1/DTD/xhtml-lat1.ent>
-- 
-
-
 
