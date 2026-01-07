@@ -24,6 +24,22 @@
 | -----  |  -----   |
 | floating number | |
 
+- Runtime Environment
+  - JavaScript Engine
+    - Memory Heap and Call Stack
+    - Garbage Collection
+  - Event Loop
+- Execution Context
+  - Hoisting: Creation & Execution Phase
+  - Global & Function Execution Context
+  - Lexical Environment
+  - Scope & Scope Chain
+  - Block Scope
+- Data Types
+  - Type Coercion
+ 
+
+
 
 
 ### Web API
